@@ -1,0 +1,1 @@
+# guida_minimale_emacs
